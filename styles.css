@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.chocolate-option {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+}
